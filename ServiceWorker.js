@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-Pepe-1.0";
+const cacheName = "DefaultCompany-PepeGrab-1.0";
 const contentToCache = [
     "Build/PepeGrabBuild.loader.js",
     "Build/PepeGrabBuild.framework.js",
