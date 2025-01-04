@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Pepe-1.0";
 const contentToCache = [
-    "Build/Build.loader.js",
-    "Build/Build.framework.js",
-    "Build/Build.data",
-    "Build/Build.wasm",
+    "Build/PepeGrabBuild.loader.js",
+    "Build/PepeGrabBuild.framework.js",
+    "Build/PepeGrabBuild.data",
+    "Build/PepeGrabBuild.wasm",
     "TemplateData/style.css"
 
 ];
